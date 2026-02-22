@@ -10,6 +10,9 @@ Calculate and display counts of artifacts within a custom view
 - Format how you would like the data to be displayed
 - If there is a view filter, applicable queries will respect the filter accordingly
 - Experimental: Import query/formatting settings from legacy query counter apps in your workspace
+- NEW: View Filter Substitutions - Include information about the current view filter (Release, Iteration or Milestone)
+
+![Example usage of View Filter Substitutions](/rally_query_counter_view_filter_substitutions.png)
 
 ### Settings
 
